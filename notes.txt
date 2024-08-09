@@ -3,3 +3,5 @@ use distributed winding for more sinusiodal back emf
 use 2mm traces
 
 distributed interleaving phases for higher torque, lower speed
+
+don't use distributed windings for weight and size optimization
